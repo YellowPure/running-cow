@@ -1,0 +1,55 @@
+{
+    "file":"../assets/countdown_gif.png",
+    "mc":{
+        "mc_name1": {
+            "labels":[
+                {
+                    "name":"run",
+                    "frame":1
+                }
+            ],
+            "frames":[
+                {
+                    "res":"res_run1"
+                },
+                {
+                    "res":"res_run2"
+                },
+                {
+                    "res":"res_run3"
+                },
+                {
+                    "res":"res_run4"
+                }
+            ]
+        }
+        
+    },
+    "res":{
+        "res_run1":{
+            "h":55,
+            "w":55,
+            "x":0,
+            "y":0 
+        },
+        "res_run2":{
+            "h":55,
+            "w":55,
+            "x":55,
+            "y":0 
+        },
+        "res_run3":{
+            "h":55,
+            "w":55,
+            "x":110,
+            "y":0 
+        },
+        "res_run4":{
+            "h":55,
+            "w":55,
+            "x":165,
+            "y":0 
+        }
+    }
+        
+}
